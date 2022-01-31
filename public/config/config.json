@@ -10,7 +10,7 @@
   "SYMBOL": "DENFT",
   "MAX_SUPPLY": 10,
   "WEI_COST": 4000000000000000000,
-  "DISPLAY_COST": 0.0005,
+  "DISPLAY_COST": 0.05,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/dollseyes",
